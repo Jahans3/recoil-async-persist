@@ -1,0 +1,9 @@
+{
+  "name": "recoil-async-persist",
+  "version": "0.0.2",
+  "description": "Tools for asynchronous state persistence in Recoil",
+  "main": "index.js",
+  "author": "Josh Jahans",
+  "license": "MIT",
+  "private": false
+}
